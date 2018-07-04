@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="42197957a3994688964d1434cac7a0e1" Name="Diagram1" >
+        <EntityTypeShape EntityType="JAMModel.Contact" Width="1.5" PointX="4.875" PointY="1.375" />
+        <EntityTypeShape EntityType="JAMModel.CatType" Width="1.5" PointX="7.375" PointY="0.875" />
+        <EntityTypeShape EntityType="JAMModel.CatValues" Width="1.5" PointX="9.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
